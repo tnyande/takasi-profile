@@ -38,8 +38,9 @@ position: absolute;
     background-repeat: no-repeat;
     background-size: cover;
     background-size: 100% 400px;
-    background-image:url('https://cdn.pixabay.com/photo/2017/05/20/08/36/panorama-of-the-landscape-2328387__480.jpg')
-    
+    /*
+    background-images:urls('https://cdn.pixabay.com/photo/2017/05/20/08/36/panorama-of-the-landscape-2328387__480.jpg')
+    */
 }
 #logo{
     height:130px;
@@ -193,7 +194,7 @@ select{
     float:left;
 }
 .ImageCard >img{
-    width:100%;
+    width:100px;
     height: 200px;
    
 }
